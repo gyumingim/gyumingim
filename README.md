@@ -1,5 +1,7 @@
 <h3 align="center">Embedded Developer</h3>
 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name}&theme={insert_theme})](https://github.com/loosie/github-readme
+
 <br/>
 
 ## 🚀 저는 지금..
