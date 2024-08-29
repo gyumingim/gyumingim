@@ -1,6 +1,6 @@
 <h3 align="center">Embedded Developer</h3>
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name}&theme={insert_theme})](https://github.com/loosie/github-readme
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Tistory})](https://github.com/loosie/github-readme)
 
 <br/>
 
