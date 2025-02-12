@@ -1,5 +1,5 @@
-<div style="font-size:20px">Language</div>
+### Language
 javascript, Typescript
 
-FrontEnd
+### FrontEnd
 React, Next, Zustand, Axios, StyledComponents, TailwindCss
