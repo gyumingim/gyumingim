@@ -1,1 +1,5 @@
-# 사실 저는 프론트엔드 개발자입니다
+<div style="font-size:20px">Language</div>
+javascript, Typescript
+
+FrontEnd
+React, Next, Zustand, Axios, StyledComponents, TailwindCss
